@@ -1,4 +1,4 @@
-# 500+ React.js Interview Questions and Answers To Land Your Next Six-Figure Job Offer as React.js Engineer - [React JS Mastery: Test Your Skills with Practice Tests 2023](https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD) 30 day money back guarantee and full lifetime access.
+# 500+ React.js Interview Questions and Answers To Land Your Next Six-Figure Job Offer as React.js Engineer - [React JS Mastery: Test Your Skills with Practice Tests 2023](https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD) - 30 day money back guarantee and full lifetime access.
 
 [React JS Mastery: Test Your Skills with Practice Tests 2023](https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD) course is a biggest hand-picked collection of top technical React.js interview questions for junior and experienced web developers with more that 500+ interview questions and answers divided logically into 6 practice tests. Whether you're a job seeker, student, or experienced developer, React JS Mastery will prepare you to ace interviews, impress employers, and excel in your projects. Prepare for your next React.js interview and land a job offer in no time.
 
@@ -10,13 +10,14 @@
 
 - [React.js Practice Test #1](#RP1)
 - [Course Description](#CD)
+- [Course FAQs](#FAQS)
 - [React.js Practice Test #2](#RP2)
 - [React.js Practice Test #3](#RP3)
 - [React.js Practice Test #4](#RP4)
 - [React.js Practice Test #5](#RP5)
 - [React.js Practice Test #6](#RP6)
 
-## [[⬆]](#toc) <a name=.RP1>React.js</a> Practice Test #1
+## [[⬆]](#toc) <a name=RP1>React.js</a> Practice Test #1
 
 #### Q1: In React, is it safe to embed user input in JSX as shown in the code snippet below?
 
@@ -735,39 +736,39 @@ B-) False
 
 Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD'>udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023</a>
 
-## [[⬆]](#toc) <a name=.CD>React JS Mastery: Test Your Skills with Practice Tests 2023 - Course Description</a>
+## [[⬆]](#toc) <a name=CD>React JS Mastery: Test Your Skills with Practice Tests 2023 - Course Description</a>
 
 Read course description at 👉 <a href='https://reactjsmastery.mohdfaisal.com/#course-intro'>Course Description</a>
 
-## [[⬆]](#toc) <a name=.CD>React JS Mastery: Test Your Skills with Practice Tests 2023 - FAQs</a>
+## [[⬆]](#toc) <a name=FAQs>React JS Mastery: Test Your Skills with Practice Tests 2023 - FAQs</a>
 
 Read the course FAQs section here 👉 <a href='https://reactjsmastery.mohdfaisal.com/#faq'>FAQs</a>
 
-## [[⬆]](#toc) <a name=.RP2>React.js</a> Practice Test #2
+## [[⬆]](#toc) <a name=RP2>React.js</a> Practice Test #2
 
 #### 80 hand picked interview questions in the React.js Practice Test #2
 
 Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD'>udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023</a>
 
-## [[⬆]](#toc) <a name=.RP3>React.js</a> Practice Test #3
+## [[⬆]](#toc) <a name=RP3>React.js</a> Practice Test #3
 
 #### 80 hand picked interview questions in the React.js Practice Test #3
 
 Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD'>udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023</a>
 
-## [[⬆]](#toc) <a name=.RP4>React.js</a> Practice Test #4
+## [[⬆]](#toc) <a name=RP4>React.js</a> Practice Test #4
 
 #### 80 hand picked interview questions in the React.js Practice Test #4
 
 Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD'>udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023</a>
 
-## [[⬆]](#toc) <a name=.RP5>React.js</a> Practice Test #5
+## [[⬆]](#toc) <a name=RP5>React.js</a> Practice Test #5
 
 #### 80 hand picked technical interview questions in the React.js Practice Test #5
 
 Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023/?referralCode=4C16E7148CB248DB20AD'>udemy.com/course/react-js-mastery-test-your-skills-with-practice-tests-2023</a>
 
-## [[⬆]](#toc) <a name=.RP6>React.js</a> Practice Test #6
+## [[⬆]](#toc) <a name=RP6>React.js</a> Practice Test #6
 
 #### 95 hand picked technical interview questions in the React.js Practice Test #6
 
