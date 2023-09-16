@@ -10,7 +10,7 @@
 
 - [React.js Practice Test #1](#RP1)
 - [Course Description](#CD)
-- [Course FAQs](#FAQS)
+- [Course FAQs](#FAQ)
 - [React.js Practice Test #2](#RP2)
 - [React.js Practice Test #3](#RP3)
 - [React.js Practice Test #4](#RP4)
@@ -740,7 +740,7 @@ Attempt them now at 👉 <a href='https://www.udemy.com/course/react-js-mastery-
 
 Read course description at 👉 <a href='https://reactjsmastery.mohdfaisal.com/#course-intro'>Course Description</a>
 
-## [[⬆]](#toc) <a name=FAQs>React JS Mastery: Test Your Skills with Practice Tests 2023 - FAQs</a>
+## [[⬆]](#toc) <a name=FAQ>React JS Mastery: Test Your Skills with Practice Tests 2023 - FAQs</a>
 
 Read the course FAQs section here 👉 <a href='https://reactjsmastery.mohdfaisal.com/#faq'>FAQs</a>
 
